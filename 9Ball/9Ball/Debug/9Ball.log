@@ -1,0 +1,4 @@
+﻿  9Ball.cpp
+c:\users\brendan\documents\visual studio 2015\projects\9ball\9ball\9ball.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  9Ball.vcxproj -> C:\Users\Brendan\Documents\Visual Studio 2015\Projects\9Ball\Debug\9Ball.exe
+  9Ball.vcxproj -> C:\Users\Brendan\Documents\Visual Studio 2015\Projects\9Ball\Debug\9Ball.pdb (Full PDB)
